@@ -1,0 +1,441 @@
+[10/01/23-16:03:10] LogInit: Initializing Project Reboot!
+[10/01/23-16:03:10] LogDev: Offset_Internal: 0x4c
+[10/01/23-16:03:10] LogDev: SuperStruct: 0x40
+[10/01/23-16:03:10] LogDev: Children: 0x50
+[10/01/23-16:03:10] LogDev: PropertiesSize: 0x58
+[10/01/23-16:03:10] LogDev: Func: 0xf0
+[10/01/23-16:03:10] LogDev: ServerReplicateActors: 0x5d
+[10/01/23-16:03:10] LogDev: ReplicationFrame: 0x0
+[10/01/23-16:03:10] LogDev: Script: 0x60
+[10/01/23-16:03:10] LogDev: Finding ProcessEvent
+[10/01/23-16:03:10] LogDev: Finding StaticFindObject
+LogParty: Display: New party member state for [HOST120] Id [MCP:HOST120] added to the local player's party [V2:32aa35e87a754475b0dd0a5005d8277d].
+LogParty: Display: New member [MCP:HOST120] added to UI Party led by [MCP:HOST120] platform id [MCP:HOST120]
+LogOnlineAccount: Display: [UOnlineAccountCommon::ContinueLoggingIn] Login: Completing Sign-in... (Completed)
+LogOnlineGame: Display: QueryPrivacySettings: player HOST120
+LogFort: Warning: UFortGameData::GetHUDVisibilityGameplayTags: called when SubGame is INVALID.  Returning empty settings array.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'Crouch' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'HotbarKey1' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'CrouchWhileBuilding' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'CrouchWhileEditing' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'PlaceMapMarkerInWorld' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'PlaceEnemyMarkerInWorld' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'SquadQuickChatPicker' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'LockerEmote1' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'LockerEmote2' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'LockerEmote3' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'LockerEmote4' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'LockerEmote5' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'LockerEmote6' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'ReplayLastEmote' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'DBNOCarryHoist' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'DBNOCarryDrop' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'AlternateInteractCarry' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'AlternateInteractPlace' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'ShoppingCartCoast' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'ShoppingCartExit' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'ShoppingCartUseOrExit' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'ShoppingCartChangeSeat' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'CannonShoot' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'CannonCoast' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'CannonExit' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'CannonUseOrExit' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'CannonChangeSeat' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'GolfCartEBrake' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'GolfCartHonk' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'GolfCartExit' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'GolfCartUseOrExit' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'GolfCartChangeSeat' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'QuadCrasherBoost' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'QuadCrasherHonk' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'QuadCrasherExit' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'QuadCrasherUseOrExit' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'QuadCrasherChangeSeat' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'JackalBoost' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'JackalUseOrExit' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'JackalJump' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'HamsterballBoost' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'HamsterballShoot' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'HamsterballRetract' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'HamsterballExit' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'BiplaneBoost' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'BiplaneShoot' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'BiplaneRollRight' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'BiplaneRollLeft' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'BiplaneRollInvert' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'BiplaneStartEngine' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'BiplaneStopEngine' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'BiplaneFreelook' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'BiplaneTaxiBackwards' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'BiplaneExit' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'BiplaneUseOrExit' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'BiplaneChangeSeat' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'OstrichBoost' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'OstrichJump' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'OstrichStomp' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'OstrichHonk' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'OstrichSelfDestructDriver' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'OstrichExitDriver' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'OstrichShotgun' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'OstrichMissiles' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'OstrichShieldBoost' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'OstrichSelfDestructPassenger' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'OstrichExitPassenger' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'OstrichChangeSeat' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'MeatballBoost' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'MeatballShoot' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'MeatballTargeting' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'MeatballExit' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'MeatballUseOrExit' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'MeatballChangeSeat' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'HoagieBoost' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'HoagieExit' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'HoagieChangeSeats' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'HoagieMoveUpButton' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'HoagieMoveDownButton' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'HoagieHonk' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'ToggleCreativePhone' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'ToggleQuickMenu' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'CreativeMoveToolEquippedGrabOrLetGo' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'CreativeMoveToolEquippedCopyGrabOrDuplicate' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'CreativeMoveToolEquippedDelete' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'CreativeMoveToolMultiSelect' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'CreativeMoveToolClearMultiSelect' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'CreativeQuickbarKey1' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'CreativeQuickbarKey2' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'CreativeQuickbarKey3' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'CreativeQuickbarKey4' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'CreativeQuickbarKey5' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'CreativeQuickbarKey6' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'CreativeQuickbarKey7' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'CreativeQuickbarKey8' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'CreativeMoveObjectsFreelyDuplicate' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'CreativeMoveObjectsFreelyRotateClockwise' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'CreativeMoveObjectsFreelyRotateCounterclockwise' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'CreativeMoveObjectsFreelySwitchAxis' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'CreativeMoveObjectsFreelyPush' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'CreativeMoveObjectsFreelyPull' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'CreativeMoveObjectsFreelyExit' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'CreativeMoveObjectsFreelyQuickbarClearFocusedSlot' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'CreativeMoveBuildingsOnGridDuplicate' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'CreativeMoveBuildingsOnGridRotateClockwise' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'CreativeMoveBuildingsOnGridRotateCounterclockwise' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'CreativeMoveBuildingsOnGridMirror' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'CreativeMoveBuildingsOnGridExit' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'CreativeMoveBuildingsOnGridChangePrecisionLevel' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'CreativeFlyUp' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'CreativeFlyDown' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'CreativeIslandPanelSupportAffiliate' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'CreativeIslandPanelStartMinigame' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'CreativeIslandPanelToggleDetails' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFortSettings: Warning: UFortClientSettingsRecord::GetKBMActionBindings: 'PossessPropActivate' doesn't have a valid keybinding. We're adding it as an unbound action.
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogFort: Warning: UFortPlayerInput::GetPlayerInputSettingsForPresetName: Could not find PlayerInputSettings named None
+LogUIActionRouter: Display: Applying input config for leaf-most node [ConfirmationWindow_ConfirmationWidget]
+LogUIActionRouter: Display: [User 0] Leaf-most node [ConfirmationWindow_ConfirmationWidget] did not set focus through desired methods, but the currently focused widget is acceptable. Doing nothing, but this widget should be updated.
+[10/01/23-16:03:10] LogDev: StaticFindObject: 0x2e1c4b0
+[10/01/23-16:03:10] LogDev: Finding GetPlayerViewpoint
+LogOnline: Warning: MCP: Invalid response. CorrId=FN-ccits7gxnkq-0FVsBsJvrQ code=401 error=Failure ErrorCode=errors.com.epicgames.common.authentication.token_verification_failed, Message=Sorry we couldn't validate your token. Please try with a new token., Raw={"errorCode":"errors.com.epicgames.common.authentication.token_verification_failed","errorMessage":"Sorry we couldn't validate your token. Please try with a new token.","messageVars":[],"numericErrorCode":1031,"originatingService":"friends","intent":"prod"}
+LogOnlineIdentity: Warning: MCP: Invalid auth token User ClientId: lawinsclientidlol AccountId: HOST120 Access[Expires: 9999.12.02-01.12.01 Remaining: 251703511730.97] Refresh[Expires: 9999.12.02-01.12.01 Remaining: 251703511730.97] State: Valid
+LogOnlineIdentity: Warning: MCP: Invalid auth token Client ClientId: lawinsclientidlol AccountId: LawinServer Access[Expires: 9999.12.02-01.12.01 Remaining: 251703511730.96]  State: Valid
+LogOnlineFriend: Warning: MCP: QueryBlockedPlayers request failed. Failure ErrorCode=errors.com.epicgames.common.authentication.token_verification_failed, Message=Sorry we couldn't validate your token. Please try with a new token., Raw={"errorCode":"errors.com.epicgames.common.authentication.token_verification_failed","errorMessage":"Sorry we couldn't validate your token. Please try with a new token.","messageVars":[],"numericErrorCode":1031,"originatingService":"friends","intent":"prod"}
+LogOnline: Warning: MCP: Invalid response. CorrId=FN-B2k_qTdvwEO5RS4VFYGbnA code=404 error=Failure ErrorCode=errors.com.lawinserver.common.not_found, Message=Sorry the resource you were trying to find could not be found, Raw={"errorCode":"errors.com.lawinserver.common.not_found","errorMessage":"Sorry the resource you were trying to find could not be found","numericErrorCode":1004,"originatingService":"any","intent":"prod"}
+LogOnlineFriend: Warning: MCP: QueryRecentPlayers request failed. Failure ErrorCode=errors.com.lawinserver.common.not_found, Message=Sorry the resource you were trying to find could not be found, Raw={"errorCode":"errors.com.lawinserver.common.not_found","errorMessage":"Sorry the resource you were trying to find could not be found","numericErrorCode":1004,"originatingService":"any","intent":"prod"}
+[10/01/23-16:03:10] LogDev: GetPlayerViewpoint StringRef: 0x22e104d
+[10/01/23-16:03:10] LogDev: Finding CreateNetDriver
+[10/01/23-16:03:10] LogDev: Finding InitHost
+LogOnline: Warning: MCP: Invalid response. CorrId=FN-Z7agRwrReUe-H4AJ8hpB7g code=404 error=Failure ErrorCode=errors.com.lawinserver.common.not_found, Message=Sorry the resource you were trying to find could not be found, Raw={"errorCode":"errors.com.lawinserver.common.not_found","errorMessage":"Sorry the resource you were trying to find could not be found","numericErrorCode":1004,"originatingService":"any","intent":"prod"}
+LogOnlinePresence: Warning: MCP: QuerySubscriptionSettings request failed. Failure ErrorCode=errors.com.lawinserver.common.not_found, Message=Sorry the resource you were trying to find could not be found, Raw={"errorCode":"errors.com.lawinserver.common.not_found","errorMessage":"Sorry the resource you were trying to find could not be found","numericErrorCode":1004,"originatingService":"any","intent":"prod"}
+LogHttpSerialization: Warning: Required Json Field failed to deserialize or was missing. JsonFieldName=[invites] CppFieldName=[Invites]
+LogOnline: Warning: MCP: Missing client permissions. id=lawinsclientidlol
+[10/01/23-16:03:10] LogDev: Finding PauseBeaconRequests
+LogOnline: Warning: OSS: Async task 'GetNumMissedPings' failed in 0.181856 seconds (Parallel)
+LogEpicCMS: Error: Empty URL
+LogOnline: Warning: MCP: Invalid response. CorrId=FN-Yhya7FE9CUiNe9t2Disoiw code=404 error=Failure ErrorCode=errors.com.lawinserver.common.not_found, Message=Sorry the resource you were trying to find could not be found, Raw={"errorCode":"errors.com.lawinserver.common.not_found","errorMessage":"Sorry the resource you were trying to find could not be found","numericErrorCode":1004,"originatingService":"any","intent":"prod"}
+LogOnlineInteractions: Warning: MCP: FOnlineInteractionsMcp::QueryLastInteractions request failed. Failure ErrorCode=errors.com.lawinserver.common.not_found, Message=Sorry the resource you were trying to find could not be found, Raw={"errorCode":"errors.com.lawinserver.common.not_found","errorMessage":"Sorry the resource you were trying to find could not be found","numericErrorCode":1004,"originatingService":"any","intent":"prod"}
+LogOnline: Warning: MCP: Invalid response. CorrId=FN-gX6wRzdi302A4ova_PMHFQ code=404 error=Failure ErrorCode=errors.com.lawinserver.common.not_found, Message=Sorry the resource you were trying to find could not be found, Raw={"errorCode":"errors.com.lawinserver.common.not_found","errorMessage":"Sorry the resource you were trying to find could not be found","numericErrorCode":1004,"originatingService":"any","intent":"prod"}
+LogOnlinePresence: Warning: MCP: Query Subscriptions request failed. Failure ErrorCode=errors.com.lawinserver.common.not_found, Message=Sorry the resource you were trying to find could not be found, Raw={"errorCode":"errors.com.lawinserver.common.not_found","errorMessage":"Sorry the resource you were trying to find could not be found","numericErrorCode":1004,"originatingService":"any","intent":"prod"}
+[10/01/23-16:03:10] LogDev: Finding SpawnActor
+LogOnline: Warning: MCP: Invalid response. CorrId=FN-FHNsiP3tI02Ff2OTUfZd7A code=404 error=Failure ErrorCode=errors.com.lawinserver.common.not_found, Message=Sorry the resource you were trying to find could not be found, Raw={"errorCode":"errors.com.lawinserver.common.not_found","errorMessage":"Sorry the resource you were trying to find could not be found","numericErrorCode":1004,"originatingService":"any","intent":"prod"}
+LogOnlinePresence: Warning: MCP: Query Nudged Subscription request failed. Failure ErrorCode=errors.com.lawinserver.common.not_found, Message=Sorry the resource you were trying to find could not be found, Raw={"errorCode":"errors.com.lawinserver.common.not_found","errorMessage":"Sorry the resource you were trying to find could not be found","numericErrorCode":1004,"originatingService":"any","intent":"prod"}
+LogOnline: Warning: MCP: Invalid response. CorrId=FN-dfY6MK3ROEC3erlvfD32_Q code=404 error=Failure ErrorCode=errors.com.lawinserver.common.not_found, Message=Sorry the resource you were trying to find could not be found, Raw={"errorCode":"errors.com.lawinserver.common.not_found","errorMessage":"Sorry the resource you were trying to find could not be found","numericErrorCode":1004,"originatingService":"any","intent":"prod"}
+LogOnlinePresence: Warning: MCP: QuerySubscriptionSettings request failed. Failure ErrorCode=errors.com.lawinserver.common.not_found, Message=Sorry the resource you were trying to find could not be found, Raw={"errorCode":"errors.com.lawinserver.common.not_found","errorMessage":"Sorry the resource you were trying to find could not be found","numericErrorCode":1004,"originatingService":"any","intent":"prod"}
+[10/01/23-16:03:11] LogDev: Finding InitListen
+[10/01/23-16:03:11] LogDev: Finding SetWorld
+LogOnline: Warning: MCP: Invalid response. CorrId=FN-WTBoh2Juo0e7PYVJbdPFwA code=404 error=Failure ErrorCode=errors.com.lawinserver.common.not_found, Message=Sorry the resource you were trying to find could not be found, Raw={"errorCode":"errors.com.lawinserver.common.not_found","errorMessage":"Sorry the resource you were trying to find could not be found","numericErrorCode":1004,"originatingService":"any","intent":"prod"}
+LogOnlinePresence: Warning: MCP: QuerySubscriptionSettings request failed. Failure ErrorCode=errors.com.lawinserver.common.not_found, Message=Sorry the resource you were trying to find could not be found, Raw={"errorCode":"errors.com.lawinserver.common.not_found","errorMessage":"Sorry the resource you were trying to find could not be found","numericErrorCode":1004,"originatingService":"any","intent":"prod"}
+LogParty: Warning: Fort Social Toolkit used all query attempts for friend subscription settings
+[10/01/23-16:03:11] LogDev: Finding KickPlayer
+[10/01/23-16:03:11] LogDev: Finding TickFlush
+[10/01/23-16:03:11] LogDev: Finding GetNetMode
+[10/01/23-16:03:11] LogDev: CallToFunc: 0x4150856
+[10/01/23-16:03:11] LogDev: Finding Realloc
+[10/01/23-16:03:11] LogDev: Finding CollectGarbage
+[10/01/23-16:03:11] LogDev: Finding NoMCP
+[10/01/23-16:03:11] LogDev: fn: 2032030542528
+[10/01/23-16:03:11] LogDev: Finding PickTeam
+[10/01/23-16:03:11] LogDev: Finding InternalTryActivateAbility
+[10/01/23-16:03:11] LogDev: Finding GiveAbility
+[10/01/23-16:03:12] LogDev: Finding CantBuild
+[10/01/23-16:03:12] LogDev: Finding ReplaceBuildingActor
+[10/01/23-16:03:12] LogDev: Finding GiveAbilityAndActivateOnce
+[10/01/23-16:03:12] LogDev: Finding OnDamageServer
+[10/01/23-16:03:12] LogDev: Finding StaticLoadObject
+[10/01/23-16:03:12] LogDev: Finding ActorGetNetMode
+[10/01/23-16:03:12] LogDev: Finding ChangeGameSessionId
+[10/01/23-16:03:12] LogDev: Finding DispatchRequest
+[10/01/23-16:03:12] LogDev: Finding AddNavigationSystemToWorld
+[10/01/23-16:03:13] LogDev: Finding NavSystemCleanUp
+[10/01/23-16:03:13] LogDev: Finding LoadPlayset
+[10/01/23-16:03:13] LogDev: Finding SetZoneToIndex
+[10/01/23-16:03:13] LogDev: Finding CompletePickupAnimation
+[10/01/23-16:03:13] LogDev: Finding CanActivateAbility
+[10/01/23-16:03:13] LogDev: Finding SpecConstructor
+[10/01/23-16:03:13] LogDev: Finding FrameStep
+[10/01/23-16:03:13] LogDev: Finding ObjectArray
+[10/01/23-16:03:13] LogDev: Finding ReplicateActor
+[10/01/23-16:03:13] LogDev: Finding SetChannelActor
+[10/01/23-16:03:13] LogDev: Finding SendClientAdjustment
+[10/01/23-16:03:13] LogDev: Finding CreateChannel
+[10/01/23-16:03:13] LogDev: Finding CallPreReplication
+[10/01/23-16:03:13] LogDev: Finding OnRep_ZiplineState
+[10/01/23-16:03:14] LogDev: Finding GetMaxTickRate
+[10/01/23-16:03:14] LogDev: Finding RemoveFromAlivePlayers
+[10/01/23-16:03:14] LogDev: Finding ActorChannelClose
+[10/01/23-16:03:14] LogMemory: Failed to find String UActorChannel::Close: ChIndex: %d, Actor: %s
+[10/01/23-16:03:14] LogDev: Finding StepExplicitProperty
+[10/01/23-16:03:14] LogDev: Finding Free
+[10/01/23-16:03:14] LogDev: Finding ClearAbility
+[10/01/23-16:03:14] LogDev: Finding ApplyGadgetData
+[10/01/23-16:03:15] LogDev: Finding RemoveGadgetData
+[10/01/23-16:03:15] LogDev: RemoveGadgetData: 0xffff8009f78b0000
+[10/01/23-16:03:15] LogDev: Finding GetInterfaceAddress
+[10/01/23-16:03:15] LogDev: Finding ApplyCharacterCustomization
+[10/01/23-16:03:15] LogMemory: Failed to find 48 8B C4 48 89 50 10 55 57 48 8D 68 A1 48 81 EC ? ? ? ? 80 B9
+[10/01/23-16:03:15] LogDev: Finding EnterAircraft
+[10/01/23-16:03:15] LogDev: Finding SetTimer
+[10/01/23-16:03:16] LogDev: Finding PickupInitialize
+[10/01/23-16:03:16] LogDev: Finding FreeEntry
+[10/01/23-16:03:16] LogDev: Finding FreeArrayOfEntries
+[10/01/23-16:03:16] LogDev: Finding UpdateTrackedAttributesLea
+[10/01/23-16:03:16] LogMemory: Failed to find 48 85 D2 0F 84 ? ? ? ? 55 41 54 41 55 41 57 48 8D 6C 24
+[10/01/23-16:03:16] LogDev: Finding CombinePickupLea
+[10/01/23-16:03:16] LogMemory: Failed to find 48 89 AC 24 ? ? ? ? 48 89 B4 24 ? ? ? ? 48 89 BC 24 ? ? ? ? 0F 29 B4 24 ? ? ? ? 75
+[10/01/23-16:03:16] LogDev: Finding CreateBuildingActorCallForDeco
+[10/01/23-16:03:16] LogDev: Finding PickSupplyDropLocation
+[10/01/23-16:03:16] LogDev: Finding LoadAsset
+[10/01/23-16:03:16] LogDev: Finding RebootingDelegate
+[10/01/23-16:03:16] LogDev: Finding GetSquadIdForCurrentPlayer
+[10/01/23-16:03:16] LogDev: Finding FinishResurrection
+[10/01/23-16:03:17] LogDev: Finding AddToAlivePlayers
+[10/01/23-16:03:17] LogDev: Finished finding!
+[10/01/23-16:03:17] LogDev: Base: 0x7ff608750000
+[10/01/23-16:03:17] LogDev: ProcessEvent: 0x2e13bf0
+[10/01/23-16:03:17] LogDev: StaticFindObject: 0x2e1c4b0
+[10/01/23-16:03:17] LogDev: GetPlayerViewpoint: 0x22e0d50
+[10/01/23-16:03:17] LogDev: CreateNetDriver: 0xffff8009f78b0000
+[10/01/23-16:03:17] LogDev: InitHost: 0xd446f0
+[10/01/23-16:03:17] LogDev: PauseBeaconRequests: 0x20dfad0
+[10/01/23-16:03:17] LogDev: SpawnActor: 0x421c800
+[10/01/23-16:03:17] LogDev: InitListen: 0xd44c40
+[10/01/23-16:03:17] LogDev: SetWorld: 0x42c2b20
+[10/01/23-16:03:17] LogDev: KickPlayer: 0x4155600
+[10/01/23-16:03:17] LogDev: TickFlush: 0x42c3ed0
+[10/01/23-16:03:17] LogDev: GetNetMode: 0x45c9d90
+[10/01/23-16:03:17] LogDev: Realloc: 0x2b409c0
+[10/01/23-16:03:17] LogDev: CollectGarbage: 0x2d95db7
+[10/01/23-16:03:17] LogDev: NoMCP: 0x1e68960
+[10/01/23-16:03:17] LogDev: PickTeam: 0x18e6b20
+[10/01/23-16:03:17] LogDev: InternalTryActivateAbility: 0x6b33f0
+[10/01/23-16:03:17] LogDev: GiveAbility: 0x6b19e0
+[10/01/23-16:03:17] LogDev: CantBuild: 0x1e57790
+[10/01/23-16:03:17] LogDev: ReplaceBuildingActor: 0x1b951b0
+[10/01/23-16:03:17] LogDev: GiveAbilityAndActivateOnce: 0x6b1b00
+[10/01/23-16:03:17] LogDev: OnDamageServer: 0x2683f80
+[10/01/23-16:03:17] LogDev: StaticLoadObject: 0x2e1d7a0
+[10/01/23-16:03:17] LogDev: ActorGetNetMode: 0x3eb6780
+[10/01/23-16:03:17] LogDev: ChangeGameSessionId: 0x1e23840
+[10/01/23-16:03:17] LogDev: DispatchRequest: 0x108d740
+[10/01/23-16:03:17] LogDev: AddNavigationSystemToWorld: 0x3ecab20
+[10/01/23-16:03:17] LogDev: NavSystemCleanUp: 0x48068c0
+[10/01/23-16:03:17] LogDev: LoadPlayset: 0x237a4c0
+[10/01/23-16:03:17] LogDev: SetZoneToIndex: 0x18fd350
+[10/01/23-16:03:17] LogDev: CompletePickupAnimation: 0x1f96650
+[10/01/23-16:03:17] LogDev: CanActivateAbility: 0x69c3a0
+[10/01/23-16:03:17] LogDev: SpecConstructor: 0x6d6dd0
+[10/01/23-16:03:17] LogDev: FrameStep: 0x2e1dd00
+[10/01/23-16:03:17] LogDev: ObjectArray: 0x8067df0
+[10/01/23-16:03:17] LogDev: ReplicateActor: 0xffff8009f78b0000
+[10/01/23-16:03:17] LogDev: SetChannelActor: 0xffff8009f78b0000
+[10/01/23-16:03:17] LogDev: SendClientAdjustment: 0xffff8009f78b0000
+[10/01/23-16:03:17] LogDev: CreateChannel: 0xffff8009f78b0000
+[10/01/23-16:03:17] LogDev: CallPreReplication: 0xffff8009f78b0000
+[10/01/23-16:03:17] LogDev: OnRep_ZiplineState: 0x2298f10
+[10/01/23-16:03:17] LogDev: GetMaxTickRate: 0x4576310
+[10/01/23-16:03:17] LogDev: RemoveFromAlivePlayers: 0x18ecbb0
+[10/01/23-16:03:17] LogDev: ActorChannelClose: 0xffff8009f78b0000
+[10/01/23-16:03:17] LogDev: FrameStepExplicitProperty: 0x2e1dd30
+[10/01/23-16:03:17] LogDev: Free: 0xffff8009f78b0000
+[10/01/23-16:03:17] LogDev: ClearAbility: 0x69e3b0
+[10/01/23-16:03:17] LogDev: ApplyGadgetData: 0x1cfc810
+[10/01/23-16:03:17] LogDev: RemoveGadgetData: 0xffff8009f78b0000
+[10/01/23-16:03:17] LogDev: GetInterfaceAddress: 0x2e0d910
+[10/01/23-16:03:17] LogDev: ApplyCharacterCustomization: 0xffff8009f78b0000
+[10/01/23-16:03:17] LogDev: EnterAircraft: 0x1c496e0
+[10/01/23-16:03:17] LogDev: SetTimer: 0xffff8009f78b0000
+[10/01/23-16:03:17] LogDev: PickupInitialize: 0xffff8009f78b0000
+[10/01/23-16:03:17] LogDev: FreeEntry: 0xffff8009f78b0000
+[10/01/23-16:03:17] LogDev: FreeArrayOfEntries: 0xffff8009f78b0000
+[10/01/23-16:03:17] LogDev: UpdateTrackedAttributesLea: 0xffff8009f78b0000
+[10/01/23-16:03:17] LogDev: CombinePickupLea: 0xffff8009f78b0000
+[10/01/23-16:03:17] LogDev: CreateBuildingActorCallForDeco: 0xffff8009f78b0000
+[10/01/23-16:03:17] LogDev: PickSupplyDropLocation: 0xffff8009f78b0000
+[10/01/23-16:03:17] LogDev: LoadAsset: 0xffff8009f78b0000
+[10/01/23-16:03:17] LogDev: RebootingDelegate: 0x1b6c232
+[10/01/23-16:03:17] LogDev: GetSquadIdForCurrentPlayer: 0x20ca410
+[10/01/23-16:03:17] LogDev: FinishResurrection: 0x1b62f40
+[10/01/23-16:03:17] LogDev: AddToAlivePlayers: 0x18c35b0
+[10/01/23-16:03:17] LogDev: Fortnite_CL: 0
+[10/01/23-16:03:17] LogDev: Version: 12.41
